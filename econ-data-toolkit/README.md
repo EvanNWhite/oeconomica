@@ -1,4 +1,4 @@
-# Econ Data Toolkit
+# Oeconomica R / Python Tools
 
 A menu of self-contained coding lessons (Python + R) for undergrad econ
 research groups — built for micro-focused subgroups (urban econ, antitrust,
@@ -10,11 +10,8 @@ actually needs for the week and skips the rest.
 
 ## Who this is for
 
-- Students who are new to Python/R and need a working example to copy/adapt
-- Students who know some Python or R but not both, and want the same task
-  shown in whichever language they're using
-- Subgroup leads who need to quickly assemble a session without writing
-  material from scratch
+- Cohort members using Python/R for 
+- Cohort leaders 
 
 ## How to navigate
 
