@@ -1,0 +1,28 @@
+# Data files (keep raw/large data out of the repo)
+*.csv
+*.tsv
+*.xlsx
+*.json
+!package.json
+
+# API keys / credentials
+kaggle.json
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
